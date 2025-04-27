@@ -1,4 +1,4 @@
-Hi 
+Hello, 
 I am Aayush
 I have completed my btech in CSE from Acropolis
 I am studing github
